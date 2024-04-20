@@ -1,0 +1,161 @@
+/* welcome_page.css */
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Arial";
+    overflow-x: hidden;
+}
+
+img {
+    position: absolute;
+    display: block;
+    margin: 0px;
+    border: none;
+    padding: 0px;
+}
+
+div {
+    position: absolute;
+}
+
+#content-container {
+    display: block;
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    overflow: hidden;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#_bg__welcome_page {
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 1024px;
+    background: rgba(255, 255, 255, 1);
+}
+
+#stage {
+    top: 212px;
+    left: 145px;
+    width: 1150px;
+    height: 600px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    border-radius: 20px;
+    background: rgba(60, 7, 83, 1);
+}
+
+#loginButton {
+    top: 719px;
+    left: 938px;
+    width: 122px;
+    height: 87px;
+    overflow: hidden;
+    font-family: Jost;
+    font-size: 50px;
+    line-height: 82px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#rectangle_1 {
+    opacity: 0;
+    top: 722px;
+    left: 936px;
+    width: 130px;
+    height: 64px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: 1px solid #ffffff;
+    background: rgba(255, 255, 255, 0);
+}
+
+#signUpButton {
+    top: 719px;
+    left: 1086px;
+    width: 165px;
+    height: 87px;
+    overflow: hidden;
+    font-family: Jost;
+    font-size: 50px;
+    line-height: 82px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#rectangle_2 {
+    opacity: 0;
+    top: 722px;
+    left: 1085px;
+    width: 173px;
+    height: 64px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    border: 1px solid #ffffff;
+    background: rgba(255, 255, 255, 0);
+}
+
+#logo {
+    top: 238px;
+    left: 262px;
+    width: 916px;
+    height: 566px;
+}
+
+#_bg__logo_ek1 {
+    top: -238px;
+    left: -262px;
+    width: 916px;
+    height: 566px;
+    background: #;
+}
+
+#monkey {
+    top: 0px;
+    left: -33px;
+    width: 941px;
+    height: 270px;
+    overflow: hidden;
+    font-family: Inter;
+    font-size: 200px;
+    line-height: 265px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.25);
+    opacity: 0.25;
+}
+
+#monkey:before {
+    content: "MONKEY";
+    position: absolute;
+    top: 0px;
+    left: 4px;
+    color: #FFFFFF;
+}
+
+#a_modern_chat_app_for_the_modern_humanity {
+    top: 0px;
+    left: 10px;
+    width: 897px;
+    height: 30px;
+    overflow: hidden;
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 10px;
+    color: #FFFFFF;
+}
+
+#openart_image_vun5
